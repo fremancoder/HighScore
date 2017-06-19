@@ -1,0 +1,6 @@
+RestEasy
+========
+Simple project to illustrate the project setup for a restEasy project
+
+=== References ===
+https://www.mkyong.com/webservices/jax-rs/resteasy-hello-world-example/
